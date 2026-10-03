@@ -1,0 +1,18 @@
+{
+  "Records": [
+    {
+      "eventSource": "aws:s3",
+      "eventName": "ObjectCreated:Put",
+      "s3": {
+        "bucket": {
+          "name": "vpc-flow-audit-team-382"
+        },
+        "object": {
+          "key": "AWSLogs/test-flow.log.gz",
+          "size": 300
+        }
+      }
+    }
+  ]
+}
+
