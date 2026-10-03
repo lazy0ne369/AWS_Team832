@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# AWS / local credentials
+.aws/
+*.pem
+*.key
+credentials
+config
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / generated output
+*.log
+*.log.gz
+coverage/
+dist/
+build/
+
+# Local archives
+*.zip

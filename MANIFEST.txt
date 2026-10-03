@@ -1,0 +1,12 @@
+vpc-flow-audit-github/README.md	4218 bytes
+vpc-flow-audit-github/.env.example	161 bytes
+vpc-flow-audit-github/.gitignore	305 bytes
+vpc-flow-audit-github/architecture/architecture.mmd	473 bytes
+vpc-flow-audit-github/docs/deployment-notes.md	1833 bytes
+vpc-flow-audit-github/sample-data/sample-flow.log.txt	266 bytes
+vpc-flow-audit-github/lambda/dashboard/README.md	158 bytes
+vpc-flow-audit-github/lambda/dashboard/lambda_function.py	7192 bytes
+vpc-flow-audit-github/lambda/flow-log-query/README.md	180 bytes
+vpc-flow-audit-github/lambda/flow-log-query/lambda_function.py	4070 bytes
+vpc-flow-audit-github/lambda/flow-log-processor/README.md	176 bytes
+vpc-flow-audit-github/lambda/flow-log-processor/lambda_function.py	4485 bytes
